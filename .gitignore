@@ -1,0 +1,25 @@
+# Rider IDE files
+.idea/
+*.sln.iml
+
+# Build results
+bin/
+obj/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# Backup files
+*.bak
+*.backup
+
+# Cache files
+.cache/
+
+# Environment files (if you keep secrets)
+.env
